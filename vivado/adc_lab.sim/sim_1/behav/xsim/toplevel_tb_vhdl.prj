@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../src/AD9467_INTERFACE.vhd" \
+"../../../../../src/ad_9467_model.vhd" \
+"../../../../../src/toplevel_tb.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Nov 27 17:05:44 2023
+# Process ID: 21728
+# Current directory: E:/FPGA/Project/Lab10/adc_lab/vivado/adc_lab.runs/synth_1
+# Command line: vivado.exe -log toplevel_tb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source toplevel_tb.tcl
+# Log file: E:/FPGA/Project/Lab10/adc_lab/vivado/adc_lab.runs/synth_1/toplevel_tb.vds
+# Journal file: E:/FPGA/Project/Lab10/adc_lab/vivado/adc_lab.runs/synth_1\vivado.jou
+# Running On: Tony-VPI4CJD, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 6, Host memory: 34140 MB
+#-----------------------------------------------------------
+source toplevel_tb.tcl -notrace

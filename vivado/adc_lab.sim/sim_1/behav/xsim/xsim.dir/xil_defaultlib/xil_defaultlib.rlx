@@ -1,0 +1,10 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+E:/FPGA/Project/Lab10/adc_lab/src/AD9467_INTERFACE.vhd,1701054264,vhdl,,,,ad9467_interface,,,,,,,,
+E:/FPGA/Project/Lab10/adc_lab/src/ad_9467_model.vhd,1700746686,vhdl,,,,ad_9467_model,,,,,,,,
+E:/FPGA/Project/Lab10/adc_lab/src/toplevel_tb.vhd,1701054098,vhdl,,,,toplevel_tb,,,,,,,,
+E:/FPGA/Project/Lab10/adc_lab/vivado/adc_lab.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1701038199,verilog,,,,clk_wiz_0,,,../../../../adc_lab.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/Project/Lab10/adc_lab/vivado/adc_lab.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1701038199,verilog,,E:/FPGA/Project/Lab10/adc_lab/vivado/adc_lab.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../adc_lab.gen/sources_1/ip/clk_wiz_0,,,,,
+E:/FPGA/Project/Lab10/adc_lab/vivado/adc_lab.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,

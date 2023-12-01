@@ -62,6 +62,9 @@ begin
     wait for 10 us;
     -- TODO : in here, write some code to create PSEN signals which will rotate the the ADC_CLK a full 360 degrees from 
     -- its starting location.  Then stop rotating.
+    PSEN <= '1';
+    wait for 10 us;
+    PSEN <= '0';
     wait; 
  end process;
 
